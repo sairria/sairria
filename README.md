@@ -23,11 +23,21 @@
 
 ---
 
-### 💖 Projects 
+### 💖 Academic Project 
 
-🌱 **Intreelligent**
 
-📊 **Youtube Script Writing Tool**
+**Intreelligent**
+
+**Smart-Ambulance-Proximity-Alert-System-for-Enhanced-Urban-Mobility** (https://github.com/sairria/Smart-Ambulance-Proximity-Alert-System-for-Enhanced-Urban-Mobility.git)
+
+**Youtube Script Writing Tool**
+
+**AI-Powered-Growth-Insights-for-CDO-Study-Hubs** (https://github.com/sairria/AI-Powered-Growth-Insights-for-CDO-Study-Hubs.git)
+
+**Land Use & Coverage: Zamboanga** (https://github.com/sairria/Land-Use-Coverage-Zamboanga.git)
+
+**Data Storytelling & Visualization: Italy: Population Density Map** (https://github.com/sairria/Land-Use-Coverage-Zamboanga.git)
+
 
 
 ### 🕒 Soon 
