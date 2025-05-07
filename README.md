@@ -23,21 +23,17 @@
 
 ---
 
-### 💖 Academic Project 
 
+### 💖 Academic Related Projects
 
-**Intreelligent**
-
-**Smart-Ambulance-Proximity-Alert-System-for-Enhanced-Urban-Mobility** (https://github.com/sairria/Smart-Ambulance-Proximity-Alert-System-for-Enhanced-Urban-Mobility.git)
-
-**Youtube Script Writing Tool**
-
-**AI-Powered-Growth-Insights-for-CDO-Study-Hubs** (https://github.com/sairria/AI-Powered-Growth-Insights-for-CDO-Study-Hubs.git)
-
-**Land Use & Coverage: Zamboanga** (https://github.com/sairria/Land-Use-Coverage-Zamboanga.git)
-
-**Data Storytelling & Visualization: Italy: Population Density Map** (https://github.com/sairria/Land-Use-Coverage-Zamboanga.git)
-
+| Project | Description |
+|--------|-------------|
+| [🌱 Intreelligent] |A Clustering Model of Tree Crowns for Enhanced Ecological Monitori|
+| [🚑 Smart Ambulance Proximity Alert System](https://github.com/sairria/Smart-Ambulance-Proximity-Alert-System-for-Enhanced-Urban-Mobility) | IoT-based system to aid emergency response |
+| [🎥 YouTube Script Writing Tool](https://github.com/sairria/YouTube-Script-Writing-Tool) | AI-powered tool to assist creators with script generation |
+| [📊 AI-Powered Growth Insights for CDO Study Hubs](https://github.com/sairria/AI-Powered-Growth-Insights-for-CDO-Study-Hubs) | Uses AI to analyze and visualize study hub trends in CDO |
+| [🗺️ Land Use & Coverage: Zamboanga](https://github.com/sairria/Land-Use-Coverage-Zamboanga) | GIS-based project for analyzing land coverage & usage in Zamboanga |
+| [📌 Data Storytelling & Visualization: Italy](https://github.com/sairria/Italy_PopulationDensity) | Population density mapping and analysis using R Studio |
 
 
 ### 🕒 Soon 
