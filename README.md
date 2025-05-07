@@ -25,7 +25,7 @@
 
 ### 💖 Projects 
 
-🌱 **Intreelligent** –  Tree species clustering  via UAVs.  A Capstone Project
+🌱 **Intreelligent**
 
 📊 **Youtube Script Writing Tool**
 
