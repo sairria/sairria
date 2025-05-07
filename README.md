@@ -5,13 +5,12 @@
 <div align="center">
 
 <h2> 🌸 </b>  1 Corinthians 16:14 Let all that you do be done in love. </b> 🌸</h2>
+</div>
 
-💻 Data Science student | ✝️ Christian creative | 🌱 Lifelong learner  
+💻 Data Science Student | ✝️ Christian Creative | 🌱 Lifelong Learner  
 📍 Cagayan de Oro, Philippines  
 📬 mail: <a href="mailto:airyll.sanchez@1.ustp.edu.ph">airyll.sanchez@1.ustp.edu.ph</a>  
 🧾 [ORCID]([https://orcid.org/0009-0002-4612-6648) 
-
-</div>
 
 ---
 
