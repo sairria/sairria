@@ -12,21 +12,24 @@
 🧾 [ORCID](https://orcid.org/0009-0002-4612-6648)
 
 ---
+<div align="center">
 
 ### 🌼 About Me
 
 🦋 I’m a curious and creative soul  
 📖 A reader who lives for words, code, and meaning  
 📝 I write blogs that blend life, Scripture, and stories  
-🎧 Music is my background soundtrack — from worship to lofi  
+</div>
 
 ---
+<div align="center">
 
 ### 💖 Academic Related Projects
+</div>
 
 | Project | Description |
 |--------|-------------|
-| [🌱 Intreelligent](https://github.com/sairria/Intreelligent) | Capstone study focused on intelligent insight generation |
+| [🌱 Intreelligent](https://github.com/sairria/Intreelligent) | CLUSTERING TREE SPECIES FROM AERIAL IMAGERY FOR ENHANCED ECOLOGICAL MONITORING |
 | [🚑 Smart Ambulance Proximity Alert System](https://github.com/sairria/Smart-Ambulance-Proximity-Alert-System-for-Enhanced-Urban-Mobility) | IoT-based system to aid emergency response |
 | [🎥 YouTube Script Writing Tool](https://github.com/sairria/YouTube-Script-Writing-Tool) | AI-powered tool to assist creators with script generation |
 | [📊 AI-Powered Growth Insights for CDO Study Hubs](https://github.com/sairria/AI-Powered-Growth-Insights-for-CDO-Study-Hubs) | Uses AI to analyze and visualize study hub trends in CDO |
@@ -34,8 +37,11 @@
 | [📌 Data Storytelling & Visualization: Italy](https://github.com/sairria/Italy_PopulationDensity) | Population density mapping and storytelling using QGIS |
 
 ---
+<div align="center">
 
 ### 🕒 Soon
+
+</div>
 
 | Project | Description |
 |--------|-------------|
@@ -43,8 +49,11 @@
 | 📌 **The Cell M2819: A JCFC Tracker** | A member and discipleship tracker for Jesus Christ Family Church, inspired by Matthew 28:19 — “Go and make disciples of all nations.” Tracks cell group schedules, member records, and follow-ups. |
 
 ---
+<div align="center">
 
 ### 🎶 Vibe with Me
+
+</div>
 
 🔗 [My Worship Playlist](https://www.youtube.com/playlist?list=YOUR_WORSHIP_LINK)  
 🔗 [My Coding Lofi Playlist](https://www.youtube.com/playlist?list=YOUR_LOFI_LINK)  
@@ -63,8 +72,11 @@
 </div>
 
 ---
+<div align="center">
 
 ### 🌸 Hobbies & Interests
+
+</div>
 
 📚 Reading deep stories & Scripture  
 🖋️ Creative writing & blogging  
@@ -74,4 +86,10 @@
 
 ---
 
+<div align="center">
+
+
 ✨ *"Let everything you do reflect the value of Christ."*  
+
+</div>
+
