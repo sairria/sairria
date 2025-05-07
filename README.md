@@ -1,16 +1,15 @@
-
 <!-- 🌸 Cute Banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFC0CB&height=180&section=header" />
 
 <div align="center">
 
-<h2> 🌸 </b>  1 Corinthians 16:14 Let all that you do be done in love. </b> 🌸</h2>
+<h2>🌸 1 Corinthians 16:14 — Let all that you do be done in love. 🌸</h2>
 </div>
 
 💻 Data Science Student | ✝️ Christian Creative | 🌱 Lifelong Learner  
 📍 Cagayan de Oro, Philippines  
-📬 mail: <a href="mailto:airyll.sanchez@1.ustp.edu.ph">airyll.sanchez@1.ustp.edu.ph</a>  
-🧾 [ORCID]([https://orcid.org/0009-0002-4612-6648) 
+📬 mail: [airyll.sanchez@1.ustp.edu.ph](mailto:airyll.sanchez@1.ustp.edu.ph)  
+🧾 [ORCID](https://orcid.org/0009-0002-4612-6648)
 
 ---
 
@@ -23,29 +22,25 @@
 
 ---
 
-
 ### 💖 Academic Related Projects
 
 | Project | Description |
 |--------|-------------|
-| [🌱 Intreelligent] |A Clustering Model of Tree Crowns for Enhanced Ecological Monitori|
+| [🌱 Intreelligent](https://github.com/sairria/Intreelligent) | Capstone study focused on intelligent insight generation |
 | [🚑 Smart Ambulance Proximity Alert System](https://github.com/sairria/Smart-Ambulance-Proximity-Alert-System-for-Enhanced-Urban-Mobility) | IoT-based system to aid emergency response |
 | [🎥 YouTube Script Writing Tool](https://github.com/sairria/YouTube-Script-Writing-Tool) | AI-powered tool to assist creators with script generation |
 | [📊 AI-Powered Growth Insights for CDO Study Hubs](https://github.com/sairria/AI-Powered-Growth-Insights-for-CDO-Study-Hubs) | Uses AI to analyze and visualize study hub trends in CDO |
-| [🗺️ Land Use & Coverage: Zamboanga](https://github.com/sairria/Land-Use-Coverage-Zamboanga) | GIS-based project for analyzing land coverage & usage in Zamboanga |
-| [📌 Data Storytelling & Visualization: Italy](https://github.com/sairria/Italy_PopulationDensity) | Population density mapping and analysis using R Studio |
+| [🗺️ Land Use & Coverage: Zamboanga](https://github.com/sairria/Land-Use-Coverage-Zamboanga) | GIS-based project for analyzing land coverage in Zamboanga |
+| [📌 Data Storytelling & Visualization: Italy](https://github.com/sairria/Italy_PopulationDensity) | Population density mapping and storytelling using QGIS |
 
+---
 
-### 🕒 Soon 
+### 🕒 Soon
 
-🎮 **HeartReach: The Art of Soulwinning** - A cozy, offline-friendly game where players practice evangelism through scripture-based dialogues, real-life scenarios, and collaborative missions—designed to equip and inspire soul winners in their journey of faith.
-
-📌 **The Cell M2819: A JCFC Tracker** - A member and discipleship tracker for Jesus Christ Family Church, inspired by Matthew 28:19 — “Go and make disciples of all nations.” The system records member details, cell group schedules, attendance, and follow-up needs to help leaders care and connect with every soul.
-
-
-
-
-
+| Project | Description |
+|--------|-------------|
+| 🎮 **HeartReach: The Art of Soulwinning** | A cozy, offline-friendly game where players practice evangelism through scripture-based dialogues, real-life scenarios, and collaborative missions—designed to equip and inspire soul winners in their journey of faith. |
+| 📌 **The Cell M2819: A JCFC Tracker** | A member and discipleship tracker for Jesus Christ Family Church, inspired by Matthew 28:19 — “Go and make disciples of all nations.” Tracks cell group schedules, member records, and follow-ups. |
 
 ---
 
@@ -55,6 +50,7 @@
 🔗 [My Coding Lofi Playlist](https://www.youtube.com/playlist?list=YOUR_LOFI_LINK)  
 
 ---
+<div align="center">
 
 ### 🧠 Skills & Tools
 
@@ -63,6 +59,8 @@
 <img src="https://img.shields.io/badge/Express-FF69B4?style=flat&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/QGIS-98FB98?style=flat&logo=qgis&logoColor=black" />
 <img src="https://img.shields.io/badge/SQLite-ADD8E6?style=flat&logo=sqlite&logoColor=black" />
+
+</div>
 
 ---
 
@@ -77,5 +75,3 @@
 ---
 
 ✨ *"Let everything you do reflect the value of Christ."*  
-
-</div>
