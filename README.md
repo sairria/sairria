@@ -2,12 +2,16 @@
 <!-- 🌸 Cute Banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFC0CB&height=180&section=header" />
 
+<div align="center">
+
 <h2> 🌸 </b>  1 Corinthians 16:14 Let all that you do be done in love. </b> 🌸</h2>
 
 💻 Data Science student | ✝️ Christian creative | 🌱 Lifelong learner  
 📍 Cagayan de Oro, Philippines  
 📬 mail: <a href="mailto:airyll.sanchez@1.ustp.edu.ph">airyll.sanchez@1.ustp.edu.ph</a>  
-🧾 [ORCID]([https://orcid.org/0009-0002-4612-6648) | 
+🧾 [ORCID]([https://orcid.org/0009-0002-4612-6648) 
+
+</div>
 
 ---
 
