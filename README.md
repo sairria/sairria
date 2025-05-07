@@ -25,8 +25,18 @@
 
 ### 💖 Projects 
 
-🌱 **Intreelligent** –  Tree species clustering  via UAVs  | A Capstone Project 
+🌱 **Intreelligent** –  Tree species clustering  via UAVs.  A Capstone Project 
 📊 **Land Use Analyzer** – QGIS + K-Means 
+
+### Soon 
+
+🎮 **HeartReach: The Art of Soulwinning** - A cozy, offline-friendly game where players practice evangelism through scripture-based dialogues, real-life scenarios, and collaborative missions—designed to equip and inspire soul winners in their journey of faith.
+📌 **The Cell M2819: A JCFC Tracker** - A member and discipleship tracker for Jesus Christ Family Church, inspired by Matthew 28:19 — “Go and make disciples of all nations.” The system records member details, cell group schedules, attendance, and follow-up needs to help leaders care and connect with every soul.
+
+
+
+
+
 
 ---
 
