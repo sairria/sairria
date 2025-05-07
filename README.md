@@ -2,7 +2,7 @@
 <!-- 🌸 Cute Banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFC0CB&height=180&section=header" />
 
-<h2>Sanchez, Airyll Taria H.</b> 🌸</h2>
+<h2> 🌸 </b>  1 Corinthians 16:14 Let all that you do be done in love. </b> 🌸</h2>
 
 💻 Data Science student | ✝️ Christian creative | 🌱 Lifelong learner  
 📍 Cagayan de Oro, Philippines  
