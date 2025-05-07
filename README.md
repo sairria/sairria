@@ -1,60 +1,62 @@
 <div align="center">
 
-🌸･｡ﾟﾟ･｡💗｡･ﾟﾟ･｡🌸  
+<!-- 🌸 Cute Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=Hello%20World%20🌸&fontSize=40&fontColor=fff&fontAlignY=35&desc=Welcome%20to%20my%20GitHub!&descSize=20&descAlign=65" />
 
+<h2>Hi there, I'm <b>Chris Andrei Irag</b> 🌸</h2>
 
-🌸 A data science student, aspiring developer, and a firm believer in growth through grace and grit.  
-📚 I find meaning in words, especially in stories, Scripture, and code.  
-🦋 I write with purpose and build with passion.
-
----
-
-### ✨ Projects I’m Working On / Part of 
-✅ **To-Do App** – A productivity tracker built with React and Express  
-🗺️ **Land Use Mapping** – Using QGIS and clustering for spatial analysis  
-🌲 **Intreelligent** – UAV image-based forest monitoring using unsupervised learning  
+💻 Data Science student | ✝️ Christian creative | 🌱 Lifelong learner  
+📍 Cagayan de Oro, Philippines  
+📬 mail: <a href="mailto:airyll.sanchez@1.ustp.edu.ph">airyll.sanchez@1.ustp.edu.ph</a>  
+🧾 [ORCID]([https://orcid.org/0009-0002-4612-6648) | 
 
 ---
 
-### 📖 Blog & Faith-Inspired Work
-> *"Then I'll keep writing the epilogue for you until the end of time, for eternity."* – Han Sooyoung
-📝 Writing blog on life, faith, and fiction  
+### 🌼 About Me
+
+🦋 I’m a curious and creative soul  
+📖 A reader who lives for words, code, and meaning  
+📝 I write blogs that blend life, Scripture, and stories  
+🎧 Music is my background soundtrack — from worship to lofi  
 
 ---
 
-### 💖 Hobbies & Interests
-✨ **Reading**—especially Christian books, fantasy, and philosophical fiction  
-🖋️ **Creative Writing**—crafting reflective essays and fictional narratives  
-🧠 **Learning**—deep dives into AI, data science, and self-development  
-🎧 **Music**—lofi while coding, worship when reflecting  
-✝️ **Faith**—growing closer to God and reflecting His value in action  
+### 💖 Projects 
+
+🌱 **Intreelligent** – Tree species classification via UAVs  
+📊 **Land Use Analyzer** – QGIS + K-Means 
 
 ---
 
-### 🎶 Favorite Playlists
-[🕊️ Worship & Devotionals](https://www.youtube.com/playlist?list=YOUR_WORSHIP_PLAYLIST_ID)  
+### 🎶 Vibe with Me
+
+🔗 [My Worship Playlist](https://www.youtube.com/playlist?list=YOUR_WORSHIP_LINK)  
+🔗 [My Coding Lofi Playlist](https://www.youtube.com/playlist?list=YOUR_LOFI_LINK)  
 
 ---
 
 ### 🧠 Skills & Tools
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/-QGIS-589632?style=flat&logo=qgis&logoColor=white" />
-<img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown" />
+
+<img src="https://img.shields.io/badge/Python-FFD1DC?style=flat&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-FFC0CB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Express-FF69B4?style=flat&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/QGIS-98FB98?style=flat&logo=qgis&logoColor=black" />
+<img src="https://img.shields.io/badge/SQLite-ADD8E6?style=flat&logo=sqlite&logoColor=black" />
 
 ---
 
-### 📫 Connect With Me
-💌 Email: airyll.sanchez1@ustp.edu.ph  
+### 🌸 Hobbies & Interests
+
+📚 Reading deep stories & Scripture  
+🖋️ Creative writing & blogging  
+🧠 AI, data, and growth-mindset learning  
+🎀 Daydreaming & reflecting with music  
+✝️ Living out faith in all I do  
 
 ---
 
-🌸･｡ﾟﾟ･｡💗｡･ﾟﾟ･｡🌸  
-Thank you for visiting 🤍  
-**“Your actions show His value.”**  
-🌸･｡ﾟﾟ･｡💗｡･ﾟﾟ･｡🌸  
+✨ *"Let everything you do reflect the value of Christ."*  
+💌 Thank you for visiting my cozy corner of GitHub!
 
 </div>
