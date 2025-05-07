@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- 🌸 Cute Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=Hello%20World%20🌸&fontSize=40&fontColor=fff&fontAlignY=35&desc=Welcome%20to%20my%20GitHub!&descSize=20&descAlign=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=Hello%20World%20&fontSize=40&fontColor=fff&fontAlignY=35&desc=Welcome%20to%20my%20GitHub!&descSize=20&descAlign=65" />
 
-<h2>Hi there, I'm <b>Airyll Taria Sancchez</b> 🌸</h2>
+<h2>Sanchez, Airyll Taria H.</b> 🌸</h2>
 
 💻 Data Science student | ✝️ Christian creative | 🌱 Lifelong learner  
 📍 Cagayan de Oro, Philippines  
