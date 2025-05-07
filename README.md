@@ -2,7 +2,6 @@
 
 🌸･｡ﾟﾟ･｡💗｡･ﾟﾟ･｡🌸  
 
-# 👋 Hello, I'm Aia!
 
 🌸 A data science student, aspiring developer, and a firm believer in growth through grace and grit.  
 📚 I find meaning in words, especially in stories, Scripture, and code.  
