@@ -1,7 +1,7 @@
 
 <!-- 🌸 Cute Banner -->
 <!-- Coral Pink Banner with no text -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F88379&height=200&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FADADD&height=200&section=header" />
 
 <h2>Sanchez, Airyll Taria H.</b> 🌸</h2>
 
@@ -23,7 +23,7 @@
 
 ### 💖 Projects 
 
-🌱 **Intreelligent** – Tree species classification via UAVs  
+🌱 **Intreelligent** –  Tree species clustering  via UAVs  | A Capstone Project 
 📊 **Land Use Analyzer** – QGIS + K-Means 
 
 ---
@@ -39,7 +39,6 @@
 
 <img src="https://img.shields.io/badge/Python-FFD1DC?style=flat&logo=python&logoColor=black" />
 <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-FFC0CB?style=flat&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Express-FF69B4?style=flat&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/QGIS-98FB98?style=flat&logo=qgis&logoColor=black" />
 <img src="https://img.shields.io/badge/SQLite-ADD8E6?style=flat&logo=sqlite&logoColor=black" />
