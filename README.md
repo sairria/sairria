@@ -1,9 +1,8 @@
 <div align="center">
 
 🌸･｡ﾟﾟ･｡💗｡･ﾟﾟ･｡🌸  
-🌸･｡ﾟﾟ･｡💗｡･ﾟﾟ･｡🌸  
 
-# 👋 Hello, I'm [Aia]!
+# 👋 Hello, I'm Aia!
 
 🌸 A data science student, aspiring developer, and a firm believer in growth through grace and grit.  
 📚 I find meaning in words, especially in stories, Scripture, and code.  
@@ -34,7 +33,6 @@
 ---
 
 ### 🎶 Favorite Playlists
-[🎧 Coding Lofi Mix](https://www.youtube.com/playlist?list=YOUR_LOFI_PLAYLIST_ID)  
 [🕊️ Worship & Devotionals](https://www.youtube.com/playlist?list=YOUR_WORSHIP_PLAYLIST_ID)  
 
 ---
@@ -51,10 +49,7 @@
 ---
 
 ### 📫 Connect With Me
-💌 Email: [your email here]  
-🌐 Blog: [your blog link here]  
-🐦 Twitter: [your Twitter handle]  
-🔗 ORCID: [your ORCID link]  
+💌 Email: airyll.sanchez1@ustp.edu.ph  
 
 ---
 
