@@ -1,7 +1,6 @@
 
 <!-- 🌸 Cute Banner -->
-<!-- Coral Pink Banner with no text -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FADADD&height=200&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFC0CB&height=180&section=header" />
 
 <h2>Sanchez, Airyll Taria H.</b> 🌸</h2>
 
