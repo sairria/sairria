@@ -24,21 +24,6 @@
 ---
 <div align="center">
 
-### 💖 Academic Related Projects
-</div>
-
-| Project | Description |
-|--------|-------------|
-| [🌱 Intreelligent](https://github.com/sairria/Intreelligent) | CLUSTERING TREE SPECIES FROM AERIAL IMAGERY FOR ENHANCED ECOLOGICAL MONITORING |
-| [🚑 Smart Ambulance Proximity Alert System](https://github.com/sairria/Smart-Ambulance-Proximity-Alert-System-for-Enhanced-Urban-Mobility) | IoT-based system to aid emergency response |
-| [🎥 YouTube Script Writing Tool](https://github.com/sairria/YouTube-Script-Writing-Tool) | AI-powered tool to assist creators with script generation |
-| [📊 AI-Powered Growth Insights for CDO Study Hubs](https://github.com/sairria/AI-Powered-Growth-Insights-for-CDO-Study-Hubs) | Uses AI to analyze and visualize study hub trends in CDO |
-| [🗺️ Land Use & Coverage: Zamboanga](https://github.com/sairria/Land-Use-Coverage-Zamboanga) | GIS-based project for analyzing land coverage in Zamboanga |
-| [📌 Data Storytelling & Visualization: Italy](https://github.com/sairria/Italy_PopulationDensity) | Population density mapping and storytelling using QGIS |
-
----
-<div align="center">
-
 ### 🕒 Soon
 
 </div>
